@@ -1,0 +1,2 @@
+# Hosting.co
+landing page
